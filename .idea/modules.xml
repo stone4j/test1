@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo1/demo1.iml" filepath="$PROJECT_DIR$/demo1/demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo10_jdbc_template/demo10_jdbc_template.iml" filepath="$PROJECT_DIR$/demo10_jdbc_template/demo10_jdbc_template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo11_tx1/demo11_tx1.iml" filepath="$PROJECT_DIR$/demo11_tx1/demo11_tx1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo12_tx/demo12_tx.iml" filepath="$PROJECT_DIR$/demo12_tx/demo12_tx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo13_mvc_parameter/demo13_mvc_parameter.iml" filepath="$PROJECT_DIR$/demo13_mvc_parameter/demo13_mvc_parameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo14_fm/demo14_fm.iml" filepath="$PROJECT_DIR$/demo14_fm/demo14_fm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo15_mvc_annotation/demo15_mvc_annotation.iml" filepath="$PROJECT_DIR$/demo15_mvc_annotation/demo15_mvc_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo16_sb/demo16_sb.iml" filepath="$PROJECT_DIR$/demo16_sb/demo16_sb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2/demo2.iml" filepath="$PROJECT_DIR$/demo2/demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo3_factory/demo3_factory.iml" filepath="$PROJECT_DIR$/demo3_factory/demo3_factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo4_proxy/demo4_proxy.iml" filepath="$PROJECT_DIR$/demo4_proxy/demo4_proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo5_builder/demo5_builder.iml" filepath="$PROJECT_DIR$/demo5_builder/demo5_builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo6_lifecycle/demo6_lifecycle.iml" filepath="$PROJECT_DIR$/demo6_lifecycle/demo6_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo7_aop/demo7_aop.iml" filepath="$PROJECT_DIR$/demo7_aop/demo7_aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo8_aop2/demo8_aop2.iml" filepath="$PROJECT_DIR$/demo8_aop2/demo8_aop2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo9_aspectj/demo9_aspectj.iml" filepath="$PROJECT_DIR$/demo9_aspectj/demo9_aspectj.iml" />
+    </modules>
+  </component>
+</project>

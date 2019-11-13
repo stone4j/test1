@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/demo13_mvc_parameter" />
+    <file type="web" url="file://$PROJECT_DIR$/demo14_fm" />
+    <file type="web" url="file://$PROJECT_DIR$/demo15_mvc_annotation" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/demo3_factory/pom.xml" />
+        <option value="$PROJECT_DIR$/demo4_proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/demo5_builder/pom.xml" />
+        <option value="$PROJECT_DIR$/demo6_lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/demo7_aop/pom.xml" />
+        <option value="$PROJECT_DIR$/demo8_aop2/pom.xml" />
+        <option value="$PROJECT_DIR$/demo9_aspectj/pom.xml" />
+        <option value="$PROJECT_DIR$/demo10_jdbc_template/pom.xml" />
+        <option value="$PROJECT_DIR$/demo11_tx1/pom.xml" />
+        <option value="$PROJECT_DIR$/demo12_tx/pom.xml" />
+        <option value="$PROJECT_DIR$/demo13_mvc_parameter/pom.xml" />
+        <option value="$PROJECT_DIR$/demo14_fm/pom.xml" />
+        <option value="$PROJECT_DIR$/demo15_mvc_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/demo16_sb/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

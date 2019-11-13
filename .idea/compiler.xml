@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo10_jdbc_template" />
+        <module name="demo11_tx1" />
+        <module name="demo12_tx" />
+        <module name="demo13_mvc_parameter" />
+        <module name="demo14_fm" />
+        <module name="demo15_mvc_annotation" />
+        <module name="demo16_sb" />
+        <module name="demo2" />
+        <module name="demo3_factory" />
+        <module name="demo4_proxy" />
+        <module name="demo5_builder" />
+        <module name="demo6_lifecycle" />
+        <module name="demo7_aop" />
+        <module name="demo8_aop2" />
+        <module name="demo9_aspectj" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo10_jdbc_template" target="1.8" />
+      <module name="demo11_tx1" target="1.8" />
+      <module name="demo12_tx" target="1.8" />
+      <module name="demo13_mvc_parameter" target="1.8" />
+      <module name="demo14_fm" target="1.8" />
+      <module name="demo15_mvc_annotation" target="1.8" />
+      <module name="demo16_sb" target="1.8" />
+      <module name="demo2" target="1.8" />
+      <module name="demo3_factory" target="1.8" />
+      <module name="demo4_proxy" target="1.8" />
+      <module name="demo5_builder" target="1.8" />
+      <module name="demo6_lifecycle" target="1.8" />
+      <module name="demo7_aop" target="1.8" />
+      <module name="demo8_aop2" target="1.8" />
+      <module name="demo9_aspectj" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo16_sb" options="-parameters" />
+    </option>
+  </component>
+</project>
